@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "nome": "Notebook Dell Inspiron 15",
+    "categoria": "Eletrônicos",
+    "preco": 3500.00,
+    "marca": "Dell",
+    "descricao": "Notebook com processador Intel Core i7, 16GB RAM, SSD 512GB",
+    "estoque": 25,
+    "avaliacao": 4.5,
+    "tags": ["notebook", "dell", "intel", "portátil"]
+  },
+  {
+    "id": 2,
+    "nome": "Smartphone Samsung Galaxy S24",
+    "categoria": "Eletrônicos",
+    "preco": 4200.00,
+    "marca": "Samsung",
+    "descricao": "Smartphone com câmera 200MP, tela AMOLED 6.8 polegadas",
+    "estoque": 50,
+    "avaliacao": 4.8,
+    "tags": ["smartphone", "samsung", "5g", "câmera"]
+  },
+  {
+    "id": 3,
+    "nome": "Headphone Bluetooth Sony WH-1000XM5",
+    "categoria": "Áudio",
+    "preco": 1800.00,
+    "marca": "Sony",
+    "descricao": "Fone de ouvido com cancelamento de ruído ativo",
+    "estoque": 40,
+    "avaliacao": 4.7,
+    "tags": ["headphone", "bluetooth", "sony", "cancelamento-ruído"]
+  },
+  {
+    "id": 4,
+    "nome": "Monitor LG 27 polegadas 4K",
+    "categoria": "Periféricos",
+    "preco": 1200.00,
+    "marca": "LG",
+    "descricao": "Monitor UltraHD com painel IPS e 144Hz",
+    "estoque": 15,
+    "avaliacao": 4.6,
+    "tags": ["monitor", "4k", "lg", "gaming"]
+  },
+  {
+    "id": 5,
+    "nome": "Teclado Mecânico RGB Corsair K95",
+    "categoria": "Periféricos",
+    "preco": 850.00,
+    "marca": "Corsair",
+    "descricao": "Teclado mecânico com switches Cherry MX e iluminação RGB",
+    "estoque": 30,
+    "avaliacao": 4.4,
+    "tags": ["teclado", "mecânico", "corsair", "gaming", "rgb"]
+  },
+  {
+    "id": 6,
+    "nome": "Mouse Logitech MX Master 3S",
+    "categoria": "Periféricos",
+    "preco": 420.00,
+    "marca": "Logitech",
+    "descricao": "Mouse sem fio de alta precisão com múltiplos botões",
+    "estoque": 60,
+    "avaliacao": 4.9,
+    "tags": ["mouse", "logitech", "wireless", "produtividade"]
+  },
+  {
+    "id": 7,
+    "nome": "SSD Samsung 970 EVO Plus 1TB",
+    "categoria": "Armazenamento",
+    "preco": 550.00,
+    "marca": "Samsung",
+    "descricao": "SSD NVMe de alta velocidade com até 5500 MB/s de leitura",
+    "estoque": 80,
+    "avaliacao": 4.8,
+    "tags": ["ssd", "samsung", "armazenamento", "nvme"]
+  },
+  {
+    "id": 8,
+    "nome": "Webcam Logitech C920 Pro",
+    "categoria": "Periféricos",
+    "preco": 380.00,
+    "marca": "Logitech",
+    "descricao": "Webcam Full HD com microfone estéreo integrado",
+    "estoque": 35,
+    "avaliacao": 4.5,
+    "tags": ["webcam", "logitech", "fullhd", "streaming"]
+  },
+  {
+    "id": 9,
+    "nome": "Fonte Corsair 850W 80+ Gold",
+    "categoria": "Componentes",
+    "preco": 650.00,
+    "marca": "Corsair",
+    "descricao": "Fonte modular com certificação 80+ Gold",
+    "estoque": 20,
+    "avaliacao": 4.7,
+    "tags": ["fonte", "corsair", "modular", "gaming"]
+  },
+  {
+    "id": 10,
+    "nome": "Placa Mãe ASUS ROG STRIX Z790",
+    "categoria": "Componentes",
+    "preco": 2100.00,
+    "marca": "ASUS",
+    "descricao": "Placa mãe para Intel 13ª geração com PCIe 5.0",
+    "estoque": 12,
+    "avaliacao": 4.6,
+    "tags": ["placa-mãe", "asus", "intel", "gaming"]
+  },
+  {
+    "id": 11,
+    "nome": "Processador Intel Core i9-13900K",
+    "categoria": "Componentes",
+    "preco": 3800.00,
+    "marca": "Intel",
+    "descricao": "Processador topo de linha com 24 núcleos e 32 threads",
+    "estoque": 8,
+    "avaliacao": 4.9,
+    "tags": ["processador", "intel", "gaming", "workstation"]
+  },
+  {
+    "id": 12,
+    "nome": "Placa Gráfica NVIDIA RTX 4080",
+    "categoria": "Componentes",
+    "preco": 8500.00,
+    "marca": "NVIDIA",
+    "descricao": "GPU de alta performance com 16GB GDDR6X",
+    "estoque": 5,
+    "avaliacao": 4.8,
+    "tags": ["gpu", "nvidia", "gaming", "raytracing"]
+  },
+  {
+    "id": 13,
+    "nome": "Memória RAM Corsair Vengeance 32GB DDR5",
+    "categoria": "Componentes",
+    "preco": 780.00,
+    "marca": "Corsair",
+    "descricao": "Memória DDR5 6000MHz com LED RGB",
+    "estoque": 45,
+    "avaliacao": 4.7,
+    "tags": ["memória", "ddr5", "corsair", "gaming"]
+  },
+  {
+    "id": 14,
+    "nome": "Case NZXT H7 Flow RGB",
+    "categoria": "Acessórios",
+    "preco": 750.00,
+    "marca": "NZXT",
+    "descricao": "Case ATX com suporte a refrigeração líquida e LED RGB",
+    "estoque": 22,
+    "avaliacao": 4.5,
+    "tags": ["case", "nzxt", "gaming", "rgb"]
+  },
+  {
+    "id": 15,
+    "nome": "Cooler be quiet! Dark Rock Pro 4",
+    "categoria": "Acessórios",
+    "preco": 480.00,
+    "marca": "Be Quiet",
+    "descricao": "Dissipador de calor silencioso para processadores Intel e AMD",
+    "estoque": 28,
+    "avaliacao": 4.8,
+    "tags": ["cooler", "silencioso", "overclock", "dissipador"]
+  },
+  {
+    "id": 16,
+    "nome": "Mousepad SteelSeries QcK XL",
+    "categoria": "Acessórios",
+    "preco": 280.00,
+    "marca": "SteelSeries",
+    "descricao": "Mousepad extra grande com superfície otimizada",
+    "estoque": 70,
+    "avaliacao": 4.6,
+    "tags": ["mousepad", "steelseries", "gaming", "grande"]
+  },
+  {
+    "id": 17,
+    "nome": "Suporte para Monitor Elgin",
+    "categoria": "Acessórios",
+    "preco": 150.00,
+    "marca": "Elgin",
+    "descricao": "Suporte ergonômico ajustável para monitores até 32 polegadas",
+    "estoque": 55,
+    "avaliacao": 4.3,
+    "tags": ["suporte", "monitor", "ergonomia", "ajustável"]
+  },
+  {
+    "id": 18,
+    "nome": "Cabo HDMI 2.1 8K 3 metros",
+    "categoria": "Cabos",
+    "preco": 120.00,
+    "marca": "Intelbras",
+    "descricao": "Cabo HDMI com suporte a 8K@60Hz",
+    "estoque": 100,
+    "avaliacao": 4.4,
+    "tags": ["cabo", "hdmi", "8k", "intelbras"]
+  },
+  {
+    "id": 19,
+    "nome": "Hub USB-C 7 em 1",
+    "categoria": "Periféricos",
+    "preco": 320.00,
+    "marca": "Anker",
+    "descricao": "Hub multifuncional com HDMI, USB 3.0 e carregamento",
+    "estoque": 42,
+    "avaliacao": 4.5,
+    "tags": ["hub", "usb-c", "anker", "multifuncional"]
+  },
+  {
+    "id": 20,
+    "nome": "Carregador Rápido 140W USB-C",
+    "categoria": "Acessórios",
+    "preco": 280.00,
+    "marca": "Baseus",
+    "descricao": "Carregador rápido com suporte a múltiplos dispositivos",
+    "estoque": 65,
+    "avaliacao": 4.7,
+    "tags": ["carregador", "usb-c", "rápido", "baseus"]
+  }
+]

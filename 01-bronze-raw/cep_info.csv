@@ -1,0 +1,34 @@
+cep,logradouro,complemento,unidade,bairro,localidade,uf,estado,regiao,ibge,gia,ddd,siafi
+01001-000,Praça da Sé,lado ímpar,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20010-000,Rua Primeiro de Março,,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30110-000,Praça Antônio Elias Moisés,,,Centro,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+80010-000,Rua José Loureiro,,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+90010-000,Rua Siqueira Campos,até 944/945,,Centro Histórico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+70040-010,Quadra SBN Quadra 1,,,Asa Norte,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+40010-000,Avenida da França,,,Comércio,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+60020-020,Vila Santo Antônio,,,Benfica,Fortaleza,CE,Ceará,Nordeste,2304400,,85,1389
+66010-020,Boulevard Castilhos França,de 348/349 a 1052/1053,,Campina,Belém,PA,Pará,Norte,1501402,,91,0427
+01234-000,Avenida Pacaembu,de 502 ao fim - lado par,,Pacaembu,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20230-010,Rua Riachuelo,até 195 - lado ímpar,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30140-110,Rua Santa Rita Durão,até 249/250,,Funcionários,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+89010-020,Rua Ângelo Dias,,,Centro,Blumenau,SC,Santa Catarina,Sul,4202404,,47,8047
+90510-030,Rua Jardim Cristofel,,,Independência,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+40050-000,Avenida Joana Angélica,até 1112 - lado par,,Nazaré,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+66030-050,Passagem Paulo Roberto,,,Jurunas,Belém,PA,Pará,Norte,1501402,,91,0427
+01020-020,Rua Nioac,,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20040-030,Rua do Ouvidor,de 50 ao fim - lado par,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30180-040,Praça Pio XII,,,Santo Agostinho,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+89050-050,Rua Nicarágua,,,Ponta Aguda,Blumenau,SC,Santa Catarina,Sul,4202404,,47,8047
+70790-070,Quadra SGAN 907,,,Asa Norte,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+40080-080,Avenida Alberto Pinto,,,Campo Grande,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+66040-100,Avenida Conselheiro Furtado,de 1534/1535 a 2032/2033,,Cremação,Belém,PA,Pará,Norte,1501402,,91,0427
+20260-120,Travessa Angustura,,,Praça da Bandeira,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30190-130,Avenida Barbacena,até 549/550,,Barro Preto,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+89060-140,Rua Gilberto Amado,,,Fidélis,Blumenau,SC,Santa Catarina,Sul,4202404,,47,8047
+60030-180,Vila José Maria Filomeno,,,Centro,Fortaleza,CE,Ceará,Nordeste,2304400,,85,1389
+89020-230,Rua Alpinópolis,,,Garcia,Blumenau,SC,Santa Catarina,Sul,4202404,,47,8047
+90520-240,Travessa Araçá,,,Higienópolis,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+60040-270,Rua Coronel Solon,lado par,,José Bonifácio,Fortaleza,CE,Ceará,Nordeste,2304400,,85,1389
+66070-280,Alameda José Alves,,,Canudos,Belém,PA,Pará,Norte,1501402,,91,0427
+30150-310,Rua Ceará,até 399/400,,Santa Efigênia,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+89080-320,Rua Bariloche,,,Tapajós,Indaial,SC,Santa Catarina,Sul,4207502,,47,8147
