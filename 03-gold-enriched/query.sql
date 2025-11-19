@@ -22,4 +22,7 @@ SELECT
  FROM users
 INNER JOIN cep_info 
 ON users.cep = cep_info.cep
-ORDER BY id;
+ORDER BY id ASC;
+
+
+
